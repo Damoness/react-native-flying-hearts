@@ -1110,11 +1110,6 @@
   dependencies:
     find-up "^4.0.0"
 
-"@damoness/react-native-flying-hearts@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.npmjs.org/@damoness/react-native-flying-hearts/-/react-native-flying-hearts-1.0.4.tgz#e8ca80ead280dc439215cb003ee5d71661706c0a"
-  integrity sha512-zBCuro5iRJPIQwjiX7Q4a6mtRIBxjibQ/5mzNDdCf8kpVN4JswBI0LTXDr+Da3S7mVV9yZRpfhYS++ZE4jPQ6w==
-
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.npm.taobao.org/@hapi/address/download/@hapi/address-2.1.4.tgz?cache=0&sync_timestamp=1584171313929&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40hapi%2Faddress%2Fdownload%2F%40hapi%2Faddress-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"

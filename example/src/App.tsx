@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { StyleSheet, View } from 'react-native';
-import FlyingHearts from '@damoness/react-native-flying-hearts';
+import FlyingHearts from '../../src';
 
 export default function App() {
   return (

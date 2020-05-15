@@ -968,11 +968,6 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@damoness/react-native-flying-hearts@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.npmjs.org/@damoness/react-native-flying-hearts/-/react-native-flying-hearts-1.0.4.tgz#e8ca80ead280dc439215cb003ee5d71661706c0a"
-  integrity sha512-zBCuro5iRJPIQwjiX7Q4a6mtRIBxjibQ/5mzNDdCf8kpVN4JswBI0LTXDr+Da3S7mVV9yZRpfhYS++ZE4jPQ6w==
-
 "@expo/babel-preset-cli@0.2.13":
   version "0.2.13"
   resolved "https://registry.npm.taobao.org/@expo/babel-preset-cli/download/@expo/babel-preset-cli-0.2.13.tgz#304dba5e38927f89d57a61258c038556d1085ab6"

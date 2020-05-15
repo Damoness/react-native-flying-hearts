@@ -1,6 +1,8 @@
 # react-native-flying-hearts
 
-flying hearts
+ flying hearts animation for React Native.
+
+![react-native-floating-hearts](./images/flying_hearts.gif)
 
 ## Installation
 
@@ -11,12 +13,33 @@ npm install react-native-flying-hearts
 ## Usage
 
 ```js
+import * as React from 'react';
+import { StyleSheet, View } from 'react-native';
 import FlyingHearts from "react-native-flying-hearts";
 
-// ...
+export default function App() {
+  return (
+    <View style={styles.container}>
+      <FlyingHearts />
+    </View>
+  );
+}
+const styles = StyleSheet.create({
+  container: {
+    flex: 1
+  },
+});
 
-const result = await FlyingHearts.multiply(3, 7);
 ```
+
+### Props
+
+| Props name        | Type      | Description                               | Default |
+| ----------------- | --------- | ----------------------------------------- | ------- |
+| style             | ViewStyle | Layout                                    |         |
+| renderCustomShape | Function  | Renders a custom shape instead of a heart |         |
+
+
 
 ## Contributing
 
