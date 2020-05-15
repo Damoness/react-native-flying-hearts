@@ -1,0 +1,22 @@
+{
+  "name": "react-native-flying-hearts-example",
+  "displayName": "FlyingHearts Example",
+  "expo": {
+    "name": "react-native-flying-hearts-example",
+    "slug": "react-native-flying-hearts-example",
+    "description": "Example app for react-native-flying-hearts",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
