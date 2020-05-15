@@ -12,6 +12,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@damoness/react-native-flying-hearts": "^1.0.4",
     "expo": "~37.0.3",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",

@@ -1,6 +1,6 @@
 {
-  "name": "react-native-flying-hearts",
-  "version": "0.1.0",
+  "name": "@damoness/react-native-flying-hearts",
+  "version": "2.0.0",
   "description": "flying hearts",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
@@ -93,7 +93,10 @@
       ]
     }
   },
-  "eslintIgnore": ["node_modules/", "lib/"],
+  "eslintIgnore": [
+    "node_modules/",
+    "lib/"
+  ],
   "prettier": {
     "quoteProps": "consistent",
     "singleQuote": true,
@@ -121,6 +124,10 @@
   "@react-native-community/bob": {
     "source": "src",
     "output": "lib",
-    "targets": ["commonjs", "module", "typescript"]
+    "targets": [
+      "commonjs",
+      "module",
+      "typescript"
+    ]
   }
 }
